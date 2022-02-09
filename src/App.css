@@ -1,0 +1,188 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.logo{
+
+  width: 160px;
+  height: 40px;
+  position: absolute;
+  left: 0;
+  padding: 10px;
+  
+
+}
+.logo-div{
+ 
+  position: relative;
+  height: 50px;
+}
+.NavArrow{
+
+  color: #282c34;
+  margin-top: 10px;
+  margin-left: -20px;
+}
+.backGroundimg{
+
+  width: 100%;
+  height: 400px;
+  margin-top: 20px;
+}
+.iconHover{
+          width: 100px;
+         padding: 15px;
+         height: 150px;
+         
+}
+.iconHover:hover{
+
+  background-color: #eceaea;
+  cursor: pointer;
+   transform: translateY(-30px);
+  
+  
+}
+.bottomTax p{
+  margin: 0px;
+  color: rgb(98, 98, 165);
+  font-size: 18px;
+  
+}
+.bottomTax {
+   display: none;
+}
+#about{
+  margin-top: 50px;
+  margin: 5px;
+  padding: 40px;
+}
+
+.About-img img{
+
+  width: 400px;
+  height: 450px;
+}
+.About-text{
+
+  
+ padding: 30px;
+ height: 350px;
+   list-style: circle;
+   color:#272727;
+}
+
+.About-text h1{
+font-size: 2rem;
+  font-weight: 300;
+  margin: 0px;
+padding: 0px;
+font-family: 'Montserrat';
+}
+
+.About-text p{
+  
+font-size: 1.2rem;
+color:#272727;
+margin-left: 50px;
+line-height: 28px;
+
+}
+.supportIcon{
+
+  float: left;
+   padding-right: 12px;
+   
+}
+.itmeBorder{
+
+  border-bottom: 1px solid grey;
+  /* width: 600px; */
+  height: 80px;
+}
+.itmeBorder p{
+
+
+  font-size: 18px;
+  margin-left: 40px;
+  color: black;
+  margin-top: -20px;
+  
+}
+.itmeBorder h3{
+
+  color: rgb(55, 194, 212);
+  font-size: 25px;
+  font-weight: 200;
+  margin-top: -5px;
+}
+.heading h2{
+  justify-content: left;
+  text-align: left;
+  font-weight: 100;
+}
+.imgSection{
+
+  justify-content: left;
+  text-align: left;
+  padding: 10px;
+  
+}
+.imgSection img{
+
+  width: 200px;
+  height: 120px;
+  float: left;
+  
+  margin-right: 15px;
+}
+
+.textArea{
+  justify-content: left;
+  text-align: left;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+.heading{
+
+  border-bottom: 1px solid rgb(211, 208, 208);
+  margin-left: 10px;
+}
+.Footer{
+  
+  margin: 20px;
+  padding: 20px;
+ 
+
+}
+.Footer ul, li {
+
+  text-decoration: none;
+  list-style: none;
+  text-align: left;
+  justify-content: left;
+  line-height: 30px;
+  color: #797676;
+}
