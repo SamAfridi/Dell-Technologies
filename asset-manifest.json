@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Dell-Technologies/static/css/main.d4fe0d7d.css",
+    "main.js": "/Dell-Technologies/static/js/main.9f3a068a.js",
+    "static/js/787.1af9c895.chunk.js": "/Dell-Technologies/static/js/787.1af9c895.chunk.js",
+    "static/media/image1.png": "/Dell-Technologies/static/media/image1.b1f9b18336cbb32acb54.png",
+    "static/media/background.jpg": "/Dell-Technologies/static/media/background.5d48ade2e62b9a2e856c.jpg",
+    "static/media/logo.png": "/Dell-Technologies/static/media/logo.f08685f76cab40ad31f7.png",
+    "static/media/image2.png": "/Dell-Technologies/static/media/image2.d03f76e7863af0699f7d.png",
+    "index.html": "/Dell-Technologies/index.html",
+    "main.d4fe0d7d.css.map": "/Dell-Technologies/static/css/main.d4fe0d7d.css.map",
+    "main.9f3a068a.js.map": "/Dell-Technologies/static/js/main.9f3a068a.js.map",
+    "787.1af9c895.chunk.js.map": "/Dell-Technologies/static/js/787.1af9c895.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4fe0d7d.css",
+    "static/js/main.9f3a068a.js"
+  ]
+}
